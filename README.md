@@ -5,7 +5,7 @@
 <p>This Mod lets you use HM's without having to actually teach them to your Pokemon</p>
 <p>You still need to have the required Badge to use the HM. Currently working on a setting that checks wheter you have the HM in your Bag</p>
 
-##Content:
+## Content:
 
 <p>Following moves can be used outside of battle after you aquire the necessary Badge:</p>
 <ul>
@@ -22,5 +22,6 @@
 [QOL mod](https://github.com/BuezliBueb/BB-s-Infinite-Fusion-Quality-of-Life-Cheats)
 
 ## Installing/Uninstalling:
+
 <p>Just drag the Data folder into you Folder where Game.exe is located</p>
 <p>To uninstall, remove the Folder Data/Scripts/998_mods/007_BB_NoHM</p>
