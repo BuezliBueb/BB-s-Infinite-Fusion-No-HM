@@ -19,6 +19,8 @@
 </ul>
 <P>Teleport and Flash cannot be modified this way. I recommend my QOL mod where you can add the Items Teleporter and Lantern to your bag</P>
 
+[QOL mod](https://github.com/BuezliBueb/BB-s-Infinite-Fusion-Quality-of-Life-Cheats)
+
 ## Installing/Uninstalling:
 <p>Just drag the Data folder into you Folder where Game.exe is located</p>
 <p>To uninstall, remove the Folder Data/Scripts/998_mods/007_BB_NoHM</p>
